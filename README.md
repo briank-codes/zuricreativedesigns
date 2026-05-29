@@ -6,7 +6,7 @@ Live: [Portfolio](https://your-username.github.io/brian-portfolio/?utm_source=ch
 
  Tech
 
-HTML, CSS & JS. Responsive, dark mode, lightweight.
+HTML .
 
  Highlights
 
