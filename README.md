@@ -1,2 +1,21 @@
-# zuricreativedesigns
-I build fast, scalable web &amp; mobile apps for businesses worldwide. Portfolio of Brian K. | 2+ Years Experience | 30+ Happy Clients | Free Marketing for 2 Months
+ Brian K. | Zuri Creative Designs
+
+Full-stack developer building web & mobile apps.
+
+Live: [Portfolio](https://your-username.github.io/brian-portfolio/?utm_source=chatgpt.com)
+
+ Tech
+
+HTML, CSS & JS. Responsive, dark mode, lightweight.
+
+ Highlights
+
+ 2+ Years Experience
+30+ Clients
+ Free 2-Month Marketing
+
+Contact
+
+📧 [brian@zuricreative.com](mailto:@zuricreativedesignslimited.com)
+🌐 [Zuri Creative Designs]
+© 2026 Zuri Creative Designs
